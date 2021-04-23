@@ -23,7 +23,6 @@
 
 <p align="center">
  <a href="#-about">About</a> •
- <a href="#eyes-deploy">Deploy</a> •
  <a href="#rocket-features">Features</a> • 
  <a href="#computer-technologies">Technologies</a> • 
  <a href="#construction_worker-how-to-run">How to run</a> • 
